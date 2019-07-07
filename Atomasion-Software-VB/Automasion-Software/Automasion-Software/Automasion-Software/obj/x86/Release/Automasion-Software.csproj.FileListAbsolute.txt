@@ -1,0 +1,52 @@
+F:\Automasion-Software\Automasion-Software\Automasion-Software\bin\Release\Automasion-Software.exe
+F:\Automasion-Software\Automasion-Software\Automasion-Software\bin\Release\Automasion-Software.pdb
+F:\Automasion-Software\Automasion-Software\Automasion-Software\bin\Release\FarsiMessageBox.dll
+F:\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion_Software.frmMain.resources
+F:\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion_Software.frmsUsers.resources
+F:\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion_Software.LogIn.resources
+F:\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion_Software.frmLetterInfo.resources
+F:\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion_Software.frmUser.resources
+F:\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion_Software.Properties.Resources.resources
+F:\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion-Software.exe
+F:\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion-Software.pdb
+F:\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion_Software.frmLetterInfo1.resources
+E:\New folder\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\bin\Release\Automasion-Software.exe.config
+E:\New folder\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\bin\Release\Automasion-Software.exe
+E:\New folder\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\bin\Release\Automasion-Software.pdb
+E:\New folder\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\bin\Release\FarsiMessageBox.dll
+E:\New folder\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\New folder\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+E:\New folder\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion_Software.frmLetterInfo1.resources
+E:\New folder\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion_Software.frmMain.resources
+E:\New folder\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion_Software.frmsUsers.resources
+E:\New folder\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion_Software.LogIn.resources
+E:\New folder\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion_Software.frmLetterInfo.resources
+E:\New folder\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion_Software.frmUser.resources
+E:\New folder\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion_Software.Properties.Resources.resources
+E:\New folder\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion-Software.csproj.GenerateResource.cache
+E:\New folder\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion-Software.csproj.CoreCompileInputs.cache
+E:\New folder\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion-Software.csproj.CopyComplete
+E:\New folder\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion-Software.exe
+E:\New folder\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion-Software.pdb
+E:\New folder\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion-Software.csprojAssemblyReference.cache
+D:\Programing\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\bin\Release\Automasion-Software.exe.config
+D:\Programing\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\bin\Release\Automasion-Software.exe
+D:\Programing\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\bin\Release\Automasion-Software.pdb
+D:\Programing\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\bin\Release\FarsiMessageBox.dll
+D:\Programing\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+D:\Programing\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion-Software.csprojAssemblyReference.cache
+D:\Programing\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion_Software.frmLetterInfo1.resources
+D:\Programing\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion_Software.frmMain.resources
+D:\Programing\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion_Software.frmsUsers.resources
+D:\Programing\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion_Software.LogIn.resources
+D:\Programing\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion_Software.frmLetterInfo.resources
+D:\Programing\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion_Software.frmUser.resources
+D:\Programing\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion_Software.Properties.Resources.resources
+D:\Programing\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion-Software.csproj.GenerateResource.cache
+D:\Programing\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion-Software.csproj.CoreCompileInputs.cache
+D:\Programing\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion-Software.csproj.CopyComplete
+D:\Programing\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion-Software.exe
+D:\Programing\Atomasion-Software-VB\Automasion-Software\Automasion-Software\Automasion-Software\obj\x86\Release\Automasion-Software.pdb
